@@ -1,0 +1,24 @@
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\bin\Debug\Data Diri.exe.config
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\bin\Debug\Data Diri.exe
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\bin\Debug\Data Diri.pdb
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\bin\Debug\Data Diri.xml
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\obj\Debug\Data Diri.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\obj\Debug\Data_Diri.Form1.resources
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\obj\Debug\Data_Diri.Resources.resources
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\obj\Debug\Data Diri.vbproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\obj\Debug\Data Diri.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\obj\Debug\Data Diri.exe
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\obj\Debug\Data Diri.xml
+C:\Users\LENOVO\source\repos\Data Diri\Data Diri\obj\Debug\Data Diri.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\bin\Debug\Data Diri.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\bin\Debug\Data Diri.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\bin\Debug\Data Diri.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\bin\Debug\Data Diri.xml
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\obj\Debug\Data Diri.vbproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\obj\Debug\Data_Diri.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\obj\Debug\Data_Diri.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\obj\Debug\Data Diri.vbproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\obj\Debug\Data Diri.vbproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\obj\Debug\Data Diri.exe
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\obj\Debug\Data Diri.xml
+C:\Users\LENOVO\Documents\Visual Studio 2022\form-person-vb-main\Data Diri\obj\Debug\Data Diri.pdb

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Data Diri", "Data Diri\Data Diri.vbproj", "{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{395E35B7-6E30-46E2-956C-94B3653C441A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395E35B7-6E30-46E2-956C-94B3653C441A}.Debug|Any CPU.ActiveCfg = Debug
+		{395E35B7-6E30-46E2-956C-94B3653C441A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D3C71E9-A737-4A6A-BE97-8DA90C5EADA1}
+	EndGlobalSection
+EndGlobal

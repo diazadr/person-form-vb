@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\form-person-vb-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}|Data Diri\\Data Diri.vbproj|C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\form-person-vb-main\\data diri\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}|Data Diri\\Data Diri.vbproj|solutionrelative:data diri\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}|Data Diri\\Data Diri.vbproj|c:\\users\\lenovo\\documents\\visual studio 2022\\form-person-vb-main\\data diri\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{D3ACA3CC-6A5B-45A2-A07D-AF85E4CA2382}|Data Diri\\Data Diri.vbproj|solutionrelative:data diri\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\form-person-vb-main\\Data Diri\\Form1.vb",
+              "RelativeDocumentMoniker": "Data Diri\\Form1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\form-person-vb-main\\Data Diri\\Form1.vb",
+              "RelativeToolTip": "Data Diri\\Form1.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-09-12T09:51:46.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\form-person-vb-main\\Data Diri\\Form1.vb",
+              "RelativeDocumentMoniker": "Data Diri\\Form1.vb",
+              "ToolTip": "C:\\Users\\LENOVO\\Documents\\Visual Studio 2022\\form-person-vb-main\\Data Diri\\Form1.vb [Design]",
+              "RelativeToolTip": "Data Diri\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2023-09-12T09:34:55.222Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
