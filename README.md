@@ -39,20 +39,6 @@ Follow the steps below to install and run the application:
 
 ---
 
-## Contributing
-
-We welcome contributions to enhance the functionality of this project.  
-To contribute, please follow these steps:  
-
-1. Fork the repository.
-2. Create a new branch (`feature/your-feature-name`).
-3. Commit your changes with a descriptive message.
-4. Push the changes to your branch.
-5. Open a pull request for review.
-
-Refer to the **Contributing Guidelines** for more details.
-
----
 
 ## License
 
