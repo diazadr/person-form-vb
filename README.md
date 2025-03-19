@@ -1,93 +1,52 @@
-# LED Control via Arduino & Visual Basic
+# Person Form
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen) [![License](https://img.shields.io/badge/license-MIT-blue)](./LICENSE)
 
-This tutorial explains how to control the ON/OFF state of an LED on Arduino pin 13 using buttons in Visual Basic.
+This project is a simple **Person Form** application, developed as part of the **Database Systems** course at Bandung Manufacturing Polytechnic.
 
 ## Technologies Used
-- **Arduino Board**: The hardware used.
-- **Arduino IDE**: Used to write and upload code to the Arduino.
-- **Visual Basic**: Used to build the application interface.
+- **Visual Basic**: Programming language used for the application.
+- **Windows Forms**: GUI framework for building the application interface.
 
 ## Features
-- **LED Control**: Turn the LED on and off using buttons in Visual Basic.
-- **Serial Communication**: Uses MSComm for communication between Visual Basic and Arduino.
-- **Simple Interface**: Provides an easy-to-use interface for controlling the LED.
+- **Personal Data Input**: Allows users to enter and submit personal details.
+- **Form Validation**: Ensures data integrity and correctness.
+- **User-Friendly Interface**: Simple design for efficient interaction.
 
 ## Demo
 
-### **Arduino Circuit**
-Connect the LED to pin 13 on the Arduino and connect the Arduino to the PC.
+### **Application Interface**
 
-#### **Arduino Code**  
-The following code is used to receive commands from Visual Basic via serial communication:
-```cpp
-void setup() {
-  Serial.begin(9600);
-  pinMode(13, OUTPUT);
-}
+Here are screenshots showcasing the application's features:
 
-void loop() {
-  if (Serial.available()) {
-    char a = Serial.read();
-    if (a == '1') {
-      digitalWrite(13, HIGH);
-    } else if (a == '0') {
-      digitalWrite(13, LOW);
-    }
-    delay(100);
-  }
-}
-```
+#### **Form Interface**  
+This is the main interface where users can input their personal data:  
+<img src="https://github.com/user-attachments/assets/60fb386c-06a9-4e1c-b373-6757f6b00480" alt="Form Interface Screenshot" width="600">
 
-### **MSComm Setup in Visual Basic**
-To enable communication between Visual Basic and Arduino, configure MSComm with the following steps:
-1. Click **Project**, select **Components** (or press **Ctrl + T**).
-2. Check **Microsoft Comm Control 6.0 (SP6)** and click **OK**.
-3. Add **two buttons** for turning the LED on and off, and **one MSComm** to the Visual Basic form.
+#### **Form Results**  
+This screen displays the submitted data in a structured format:  
+<img src="https://github.com/user-attachments/assets/cb87d61c-7bc5-49fc-9708-68b333fb4055" alt="Form Results Screenshot" width="600">
 
-### **Visual Basic Form Interface**  
-Below is an example of the Visual Basic user interface:
+## Installation and Setup
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/3477a17e-f892-4741-8e43-3213e667f368" alt="Form Interface Screenshot" width="600">
-</div>
+Follow the steps below to install and run the application:
 
-### **LED Control Result**  
-Below is an example of the LED output when controlled via Visual Basic:
+1. **Download the Installer**  
+   Navigate to the installer/debug directory.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5546adc9-5390-4529-91dc-65c828e0d11c" alt="LED Control Result" width="600">
-</div>
+2. **Run the Setup**  
+   Execute the setup.exe file to install the application on your system.
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/40c03c4a-89a6-40ca-994e-894bee1fbc17" alt="LED Control Result" width="600">
-</div>
-
-### **Port Configuration in Visual Basic**
-Ensure that the communication port between Arduino and Visual Basic matches. To find the Arduino port:
-- **Arduino IDE**: Click **Tools** → **Port**.
-- **Device Manager**: Check under **Ports (COM & LPT)**.
-
-Set **CommPort** in MSComm to match the port used by Arduino.
-
-### **Serial Configuration in Visual Basic**
-Ensure that the serial communication configuration in Visual Basic matches the Arduino settings:
-- Baudrate = 9600
-- Data = 8
-- Parity = None
-- Stop bit = 1
-
-## Installation and Usage
-1. **Connect the Arduino to the PC** and upload the Arduino code.
-2. **Set up MSComm in Visual Basic** for serial communication.
-3. **Run the Visual Basic application** and control the LED using the available buttons.
+## Usage
+1. Launch the application after installation.
+2. Enter the required data in the form.
+3. Click the submit button to view the results.
 
 ## Project Status
 This project is **completed** and will not be further developed.
 
 ## Contributions
-Feel free to submit an **issue** or create a **pull request** if you wish to contribute.
+Feel free to submit issues or contribute by creating pull requests.
 
 ## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
